@@ -18,9 +18,9 @@ Currently building [ETLP](https://github.com/etlp-clj) (Clojure-based data proce
 
 ## 🧑‍💻 Tech Stack
 
-- **Languages:** Clojure, Python, TypeScript/React, SQL  
-- **Frameworks:** Duct, Integrant, FastAPI, Supabase, ReactFlow  
-- **Infra & Tools:** Docker, Redis, MinIO, AWS Bedrock, SSE, Kafka, Keycloak  
+- **Languages:** Clojure, Python, TypeScript/React, SQL, Lua, Go  
+- **Frameworks:** Duct, Integrant, FastAPI, Supabase, Express, NestJS  
+- **Infra & Tools:** Docker, Redis, Kubernetes, AWS, SSE, Kafka, Keycloak  
 - **Specialties:** ETL pipelines, multi-tenant SaaS architectures, LLM/Agent orchestration, open-source developer tools
 
 ---
