@@ -31,7 +31,7 @@ I thrive on:
 - **Developer Experience** → building SDKs, CLIs, and PLG-ready tools.  
 - **Open Source + SaaS** → turning OSS into developer-first micro-SaaS.  
 - **Healthcare & Finance** → applying AI to solve real data bottlenecks (records retrieval, chart automation, risk dashboards).  
-- **System Design** → from Clojure micro-frontends (50+ MFE scale) to LangGraph-style node protocols.
+- **System Design** → from Clojure micro-frontends (50+ MFE scale) to LangGraph-style node protocols and everything in between.
 
 ---
 
