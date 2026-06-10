@@ -2,7 +2,7 @@
 
 🚀 **Engineer | Builder | Entrepreneur**  
 I design and ship systems that sit at the intersection of **data pipelines, agentic AI workflows, and developer-first SaaS products**.  
-Currently building [ETLP](https://github.com/etlp-clj) (Clojure-based data processing library), [Mapify.ai](#) (low-code data mapping SaaS), and [Zyng.work](https://zyng.work) (team wellness & culture platform).
+Currently building [ETLP](https://github.com/etlp-clj) (Clojure-based data processing library), and [Zyng.work](https://zyng.work)
 
 ---
 
@@ -10,7 +10,7 @@ Currently building [ETLP](https://github.com/etlp-clj) (Clojure-based data proce
 
 - **⚡ ETLP Project** → Open-source Clojure toolkit for ETL pipelines (streaming, HL7/FHIR transforms, crypto data ingestion).  
 - **🧩 Mapify.ai** → Developer-first SaaS for JSON/YAML/CSV transformations with AI-assisted Jute DSL.  
-- **☕ Zyng.work** → Micro-SaaS for surveys, mood check-ins, and coffee breaks (Supabase + AI).  
+- **☕ Zyng.work** → Agentic Take on Loom, tell Zyng what you want and just drop your clips, spreadsheets, json, csv, pdf files, Zyng will generate a audio narrated video for you.
 - **🤖 Agentic Workflows** → LangGraph/n8n-style builder for healthcare data orchestration, multi-agent automation, and cloud integration.  
 - **📊 Crypto Risk Dashboard** → Portfolio sync, live PnL/risk metrics, alerting DAGs (alerts like “XRP breakout + BTC confirmation”).
 
